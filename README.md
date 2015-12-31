@@ -1,3 +1,7 @@
+
+=======
+# C-Calculator
+
 THIS IS THE README FILE FOR c++ CALCULATOR
 
 The purpose of this was to learn and use OOP logic and work with memory allocation and deallocation. 
@@ -51,3 +55,4 @@ There are some memory leakages evident in the program as it is.
 ***********************************
 
 This project was made with the collaboration of Rahul Bablani and Abeed Alibhai.
+
