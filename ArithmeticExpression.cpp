@@ -37,7 +37,7 @@ ArithmeticExpression::ArithmeticExpression(string a) : Expression( a ){	//constr
 ArithmeticExpression::~ArithmeticExpression(){ 	//the destructor
 	//delete
 	delete rahul; 
-	cout<<"delete rahul"<<endl;
+
 }
 
 float ArithmeticExpression::evaluate() {	//the evaluate function
